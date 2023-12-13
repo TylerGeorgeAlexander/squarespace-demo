@@ -32,3 +32,18 @@ It begins loading the file:
 Then loads a success message:
 ![Alt text](image-6.png)
 
+The imported content will be in the Not linked section of the pages panel. You may need to refresh it to appear:
+![Alt text](image-7.png)
+
+Be sure to select Enable page and Save the settings in the upper left corner of the modal
+![Alt text](image-8.png)
+
+You can click and drag the Not Linked page up to the Main Navigation.
+![Alt text](image-9.png)
+
+In this example the XML blog post imports are labelled 'demo-colossal-media'
+This now appears on the navigation bar.
+![Alt text](image-10.png)
+
+The 7 blog posts are now displayed on this new page. However the image reference appears to be broken.
+
